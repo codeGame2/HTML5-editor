@@ -1,29 +1,25 @@
-­­Big Bunk Bunny:-
+Big Bunk Bunny:-
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-TYPE THIS IN SHORT:-
-BigBuckBunny.mp4
+
 THUMBNAIL:-
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBunkBunny.jpg
-TYPE THIS IN SHORT:-
-images/BigBunkBunny.jpg
+
 
 Elephants Dream:-
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-TYPE THIS IN SHORT:-
-ElephantsDream.mp4
+
 THUMBNIIL:-
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg
-TYPE THIS IN SHORT:-
-images/ElephantsDream.jpg
+
 
 Sintel:-
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-TYPE THIS IN SHORT:-
-Sintel.mp4
+
 THUMBNAIL:-
 http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg
-TYPE THIS IN SHORT:-
-images/Sintel.jpg
+
+
+
 
 
 Get more on:-
